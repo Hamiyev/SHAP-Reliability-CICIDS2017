@@ -1,0 +1,43 @@
+{
+  "protocol_version": "1.0",
+  "n_splits": 5,
+  "test": "paired t-test, df = n_splits - 1, two-sided",
+  "correction": "Holm within each metric (10 comparisons)",
+  "ci": "95% two-sided t interval of the mean paired difference (B - A)",
+  "non_inferiority_rule": "one-sided 95% lower confidence bound of the paired difference > -0.01",
+  "margin": 0.01,
+  "significant_after_holm_macro_f1": [
+    [
+      "rf_all69",
+      "stacking_oof"
+    ],
+    [
+      "rf_all69",
+      "rf_top5"
+    ],
+    [
+      "rf_all69",
+      "rf_top10"
+    ]
+  ],
+  "non_inferior_12_class": [
+    [
+      "rf_all69",
+      "lgbm_all69"
+    ],
+    [
+      "rf_all69",
+      "soft_voting"
+    ],
+    [
+      "rf_all69",
+      "rf_top40"
+    ]
+  ],
+  "caveats": [
+    "splits are repeated random partitions of the same data, not independent datasets",
+    "n=5 gives 4 degrees of freedom: intervals are wide and p-values are indicative",
+    "ultra-rare classes (2-5 test rows) make 15-class Macro-F1 noisy",
+    "non-inferiority bounds are not adjusted for multiple comparisons"
+  ]
+}
