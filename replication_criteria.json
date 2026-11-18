@@ -1,0 +1,24 @@
+{
+  "C1_top5_top10_significantly_worse": {
+    "met": false,
+    "parts": {
+      "rf_top5": true,
+      "rf_top10": false
+    },
+    "met_with_nadeau_bengio": false
+  },
+  "C2_top40_noninferior_nonrare": {
+    "met": true,
+    "lower_bound_std": -0.0002622644055484706,
+    "lower_bound_nb": -0.00040512424758015416,
+    "met_with_nadeau_bengio": true
+  },
+  "C3_xgb_lgbm_not_different": {
+    "met": true,
+    "parts": {
+      "xgb_all77": true,
+      "lgbm_all77": true
+    },
+    "met_with_nadeau_bengio": true
+  }
+}

@@ -1,0 +1,5 @@
+model,split_seed,config_index,params,val_macro_f1,fit_seconds,invalid_flag,selected
+xgb_all77,2024,0,"{""max_depth"": 6, ""learning_rate"": 0.1}",0.89795,125.3,False,False
+xgb_all77,2024,1,"{""max_depth"": 6, ""learning_rate"": 0.3}",0.938119,115.6,False,True
+xgb_all77,2024,2,"{""max_depth"": 10, ""learning_rate"": 0.1}",0.897551,126.3,False,False
+xgb_all77,2024,3,"{""max_depth"": 10, ""learning_rate"": 0.3}",0.840761,143.1,False,False

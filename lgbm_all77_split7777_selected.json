@@ -1,0 +1,8 @@
+{
+  "params": {
+    "num_leaves": 31,
+    "learning_rate": 0.1
+  },
+  "val_macro_f1": 0.962024,
+  "fit_seconds": 55.0
+}

@@ -1,0 +1,8 @@
+{
+  "params": {
+    "max_depth": 6,
+    "learning_rate": 0.3
+  },
+  "val_macro_f1": 0.976183,
+  "fit_seconds": 113.8
+}

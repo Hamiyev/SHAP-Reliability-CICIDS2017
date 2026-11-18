@@ -1,0 +1,5 @@
+model,split_seed,config_index,params,val_macro_f1,fit_seconds,invalid_flag,selected
+rf_all77,42,0,"{""max_depth"": null, ""min_samples_leaf"": 1, ""max_features"": ""sqrt""}",0.934392,249.9,False,True
+rf_all77,42,1,"{""max_depth"": null, ""min_samples_leaf"": 3, ""max_features"": ""sqrt""}",0.896185,256.1,False,False
+rf_all77,42,2,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""max_features"": ""sqrt""}",0.897312,233.0,False,False
+rf_all77,42,3,"{""max_depth"": 20, ""min_samples_leaf"": 3, ""max_features"": ""sqrt""}",0.897325,232.2,False,False
