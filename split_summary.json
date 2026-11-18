@@ -1,0 +1,7 @@
+{
+  "train_samples": 1800848,
+  "val_samples": 385896,
+  "test_samples": 385896,
+  "features_count": 70,
+  "classes_count": 16
+}

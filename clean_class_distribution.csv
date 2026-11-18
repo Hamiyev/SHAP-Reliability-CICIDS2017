@@ -1,0 +1,16 @@
+﻿label,label_id,raw_rows,duplicates_removed,nan_inf_removed,final_rows,pct_lost,final_share_pct
+BENIGN,0,2273097,176613,1427,2095057,7.83,83.1109
+DoS Hulk,4,231073,58224,3,172846,25.2,6.8568
+DDoS,2,128027,11,2,128014,0.01,5.0783
+PortScan,10,158930,68111,125,90694,42.93,3.5978
+DoS GoldenEye,3,10293,7,0,10286,0.07,0.408
+FTP-Patator,7,7938,2005,2,5931,25.28,0.2353
+DoS slowloris,6,5796,411,0,5385,7.09,0.2136
+DoS Slowhttptest,5,5499,271,0,5228,4.93,0.2074
+SSH-Patator,11,5897,2678,0,3219,45.41,0.1277
+Bot,1,1966,13,5,1948,0.92,0.0773
+Web Attack - Brute Force,12,1507,37,0,1470,2.46,0.0583
+Web Attack - XSS,14,652,0,0,652,0.0,0.0259
+Infiltration,9,36,0,0,36,0.0,0.0014
+Web Attack - Sql Injection,13,21,0,0,21,0.0,0.0008
+Heartbleed,8,11,0,0,11,0.0,0.0004

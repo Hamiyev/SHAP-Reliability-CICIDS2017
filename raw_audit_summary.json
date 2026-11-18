@@ -1,0 +1,65 @@
+{
+  "n_files": 8,
+  "total_rows": 2830743,
+  "columns_per_file": [
+    79
+  ],
+  "same_header_in_all_files": true,
+  "label_column_repr": [
+    "' Label'"
+  ],
+  "n_classes_total": 15,
+  "class_counts_total": {
+    "'BENIGN'": 2273097,
+    "'DoS Hulk'": 231073,
+    "'PortScan'": 158930,
+    "'DDoS'": 128027,
+    "'DoS GoldenEye'": 10293,
+    "'FTP-Patator'": 7938,
+    "'SSH-Patator'": 5897,
+    "'DoS slowloris'": 5796,
+    "'DoS Slowhttptest'": 5499,
+    "'Bot'": 1966,
+    "'Web Attack ï¿½ Brute Force'": 1507,
+    "'Web Attack ï¿½ XSS'": 652,
+    "'Infiltration'": 36,
+    "'Web Attack ï¿½ Sql Injection'": 21,
+    "'Heartbleed'": 11
+  },
+  "nan_cells_total": 1358,
+  "inf_cells_total": 4376,
+  "duplicate_header_names": [
+    "' Fwd Header Length'"
+  ],
+  "non_numeric_feature_columns": [],
+  "constant_columns": [
+    " Bwd PSH Flags",
+    " Bwd URG Flags",
+    "Fwd Avg Bytes/Bulk",
+    " Fwd Avg Packets/Bulk",
+    " Fwd Avg Bulk Rate",
+    " Bwd Avg Bytes/Bulk",
+    " Bwd Avg Packets/Bulk",
+    "Bwd Avg Bulk Rate"
+  ],
+  "all_nan_columns": [],
+  "duplicates": {
+    "definition": "excess copies of identical full rows (including label)",
+    "intra_file_excess_rows": {
+      "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv": 2633,
+      "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": 72353,
+      "Friday-WorkingHours-Morning.pcap_ISCX.csv": 6888,
+      "Monday-WorkingHours.pcap_ISCX.csv": 26935,
+      "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv": 35630,
+      "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv": 6066,
+      "Tuesday-WorkingHours.pcap_ISCX.csv": 24065,
+      "Wednesday-workingHours.pcap_ISCX.csv": 81909
+    },
+    "intra_file_total": 256479,
+    "all_files_total_excess_rows": 308381,
+    "cross_file_excess_rows": 51902,
+    "feature_groups_with_conflicting_labels": 698,
+    "rows_in_conflicting_groups": 7020
+  },
+  "elapsed_seconds": 65.1
+}

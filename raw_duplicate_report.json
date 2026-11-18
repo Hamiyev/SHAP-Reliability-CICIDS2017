@@ -1,0 +1,18 @@
+{
+  "definition": "excess copies of identical full rows (including label)",
+  "intra_file_excess_rows": {
+    "Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv": 2633,
+    "Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv": 72353,
+    "Friday-WorkingHours-Morning.pcap_ISCX.csv": 6888,
+    "Monday-WorkingHours.pcap_ISCX.csv": 26935,
+    "Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv": 35630,
+    "Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv": 6066,
+    "Tuesday-WorkingHours.pcap_ISCX.csv": 24065,
+    "Wednesday-workingHours.pcap_ISCX.csv": 81909
+  },
+  "intra_file_total": 256479,
+  "all_files_total_excess_rows": 308381,
+  "cross_file_excess_rows": 51902,
+  "feature_groups_with_conflicting_labels": 698,
+  "rows_in_conflicting_groups": 7020
+}

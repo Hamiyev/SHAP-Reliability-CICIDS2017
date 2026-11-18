@@ -1,0 +1,625 @@
+﻿file,column,nan,inf,non_numeric_coerced
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Destination Port,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Flow Duration,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Flow Bytes/s,4,30,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Flow Packets/s,0,34,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Min Packet Length,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Max Packet Length,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Packet Length Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, RST Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, URG Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Average Packet Size,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Active Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Active Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Active Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Active Min,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv,Idle Mean,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Idle Std,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Idle Max,0,0,0
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv, Idle Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Destination Port,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Flow Duration,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Flow Bytes/s,15,356,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Flow Packets/s,0,371,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Min Packet Length,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Max Packet Length,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Packet Length Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, RST Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, URG Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Average Packet Size,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Active Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Active Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Active Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Active Min,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv,Idle Mean,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Idle Std,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Idle Max,0,0,0
+Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv, Idle Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Destination Port,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Flow Duration,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Flow Bytes/s,28,94,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Flow Packets/s,0,122,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Min Packet Length,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Max Packet Length,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Packet Length Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, RST Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, URG Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Average Packet Size,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Active Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Active Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Active Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Active Min,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv,Idle Mean,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Idle Std,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Idle Max,0,0,0
+Friday-WorkingHours-Morning.pcap_ISCX.csv, Idle Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Destination Port,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Flow Duration,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Flow Bytes/s,64,373,0
+Monday-WorkingHours.pcap_ISCX.csv, Flow Packets/s,0,437,0
+Monday-WorkingHours.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Min Packet Length,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Max Packet Length,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Packet Length Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, RST Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, URG Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Average Packet Size,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Active Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Active Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Active Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Active Min,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv,Idle Mean,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Idle Std,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Idle Max,0,0,0
+Monday-WorkingHours.pcap_ISCX.csv, Idle Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Destination Port,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Flow Duration,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Flow Bytes/s,18,189,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Flow Packets/s,0,207,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Min Packet Length,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Max Packet Length,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Packet Length Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, RST Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, URG Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Average Packet Size,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Active Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Active Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Active Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Active Min,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv,Idle Mean,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Idle Std,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Idle Max,0,0,0
+Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv, Idle Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Destination Port,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Flow Duration,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Flow Bytes/s,20,115,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Flow Packets/s,0,135,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Min Packet Length,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Max Packet Length,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Packet Length Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, RST Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, URG Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Average Packet Size,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Active Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Active Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Active Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Active Min,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv,Idle Mean,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Idle Std,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Idle Max,0,0,0
+Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv, Idle Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Destination Port,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Flow Duration,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Flow Bytes/s,201,63,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Flow Packets/s,0,264,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Min Packet Length,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Max Packet Length,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Packet Length Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, RST Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, URG Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Average Packet Size,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Active Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Active Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Active Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Active Min,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv,Idle Mean,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Idle Std,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Idle Max,0,0,0
+Tuesday-WorkingHours.pcap_ISCX.csv, Idle Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Destination Port,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Flow Duration,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Total Fwd Packets,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Total Backward Packets,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Total Length of Fwd Packets,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Total Length of Bwd Packets,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Packet Length Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Packet Length Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Packet Length Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Packet Length Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Bwd Packet Length Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Packet Length Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Packet Length Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Packet Length Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Flow Bytes/s,1008,289,0
+Wednesday-workingHours.pcap_ISCX.csv, Flow Packets/s,0,1297,0
+Wednesday-workingHours.pcap_ISCX.csv, Flow IAT Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Flow IAT Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Flow IAT Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Flow IAT Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Fwd IAT Total,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd IAT Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd IAT Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd IAT Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd IAT Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Bwd IAT Total,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd IAT Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd IAT Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd IAT Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd IAT Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Fwd PSH Flags,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd PSH Flags,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd URG Flags,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd URG Flags,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Header Length,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Header Length,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Fwd Packets/s,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Packets/s,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Min Packet Length,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Max Packet Length,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Packet Length Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Packet Length Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Packet Length Variance,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,FIN Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, SYN Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, RST Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, PSH Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, ACK Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, URG Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, CWE Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, ECE Flag Count,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Down/Up Ratio,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Average Packet Size,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Avg Fwd Segment Size,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Avg Bwd Segment Size,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Header Length.1,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Fwd Avg Bytes/Bulk,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Avg Packets/Bulk,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Fwd Avg Bulk Rate,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Avg Bytes/Bulk,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Bwd Avg Packets/Bulk,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Bwd Avg Bulk Rate,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Subflow Fwd Packets,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Subflow Fwd Bytes,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Subflow Bwd Packets,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Subflow Bwd Bytes,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Init_Win_bytes_forward,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Init_Win_bytes_backward,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, act_data_pkt_fwd,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, min_seg_size_forward,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Active Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Active Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Active Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Active Min,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv,Idle Mean,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Idle Std,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Idle Max,0,0,0
+Wednesday-workingHours.pcap_ISCX.csv, Idle Min,0,0,0
