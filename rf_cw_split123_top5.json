@@ -1,0 +1,26 @@
+{
+  "model_id": "rf_cw_all69",
+  "split_seed": 123,
+  "k": 5,
+  "features": [
+    "Destination Port",
+    "Init_Win_bytes_backward",
+    "min_seg_size_forward",
+    "Bwd Packets/s",
+    "Flow Packets/s"
+  ],
+  "importance": [
+    0.013813442550599575,
+    0.011956384405493736,
+    0.010246106423437595,
+    0.007221641950309277,
+    0.005913513246923685
+  ],
+  "rank": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ]
+}

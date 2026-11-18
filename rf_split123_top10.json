@@ -1,0 +1,41 @@
+{
+  "model_id": "rf_all69",
+  "split_seed": 123,
+  "k": 10,
+  "features": [
+    "Destination Port",
+    "Packet Length Std",
+    "Subflow Fwd Bytes",
+    "Avg Bwd Segment Size",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Fwd Packet Length Max",
+    "Average Packet Size",
+    "Fwd Packet Length Mean",
+    "Packet Length Variance"
+  ],
+  "importance": [
+    0.00988712627440691,
+    0.006066625472158194,
+    0.005234953481703997,
+    0.00494679668918252,
+    0.004829620476812124,
+    0.004793223924934864,
+    0.004759225063025951,
+    0.004695161711424589,
+    0.00454409746453166,
+    0.00428755022585392
+  ],
+  "rank": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}

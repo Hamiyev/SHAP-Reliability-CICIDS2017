@@ -1,0 +1,41 @@
+{
+  "model_id": "rf_cw_all69",
+  "split_seed": 42,
+  "k": 10,
+  "features": [
+    "Destination Port",
+    "Init_Win_bytes_backward",
+    "min_seg_size_forward",
+    "Bwd Packet Length Min",
+    "Bwd Packets/s",
+    "Fwd Packet Length Max",
+    "Bwd Packet Length Std",
+    "Flow Packets/s",
+    "Flow IAT Mean",
+    "Avg Bwd Segment Size"
+  ],
+  "importance": [
+    0.013587070629000664,
+    0.010638709180057049,
+    0.007935200817883015,
+    0.006606387905776501,
+    0.006121660582721233,
+    0.005204974673688412,
+    0.005110438447445631,
+    0.0049062082543969154,
+    0.004411602858453989,
+    0.004167445469647646
+  ],
+  "rank": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ]
+}
