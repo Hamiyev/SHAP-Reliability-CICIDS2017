@@ -1,0 +1,6 @@
+file,rows,columns,label_col,distinct_labels,nan_labels
+friday.csv,547557,91,Label,5,0
+monday.csv,371624,91,Label,1,0
+thursday.csv,362076,91,Label,10,0
+tuesday.csv,322078,91,Label,5,0
+wednesday.csv,496641,91,Label,10,0

@@ -1,0 +1,6 @@
+﻿step,description,rows_before,rows_after,rows_removed,details
+1,5 CSV o'qildi va birlashtirildi,2099976,2099976,0,ustunlar: 93
+2,Yorliqlar normalizatsiya qilindi ('Attempted' -> BENIGN),2099976,2099976,0,"attempted: 11,979; Attempted Category bilan nomuvofiqlik: 0"
+3,To'liq dublikatlar o'chirildi (belgilar + yorliq),2099976,1840244,259732,
+4,NaN/inf qatorlar olib tashlandi,1840244,1840242,2,dedupdan keyingi NaN/inf qatorlar: 2
+5,Doimiy va bir xil nusxa ustunlar olib tashlandi,1840242,1840242,0,doimiy: 0; nusxa: 0; qolgan belgilar: 77
