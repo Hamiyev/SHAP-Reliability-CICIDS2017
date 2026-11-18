@@ -1,0 +1,5 @@
+model,split_seed,config_index,params,val_macro_f1,fit_seconds,invalid_flag,selected
+lgbm_all69,123,0,"{""num_leaves"": 31, ""learning_rate"": 0.1}",0.918505,98.3,False,True
+lgbm_all69,123,1,"{""num_leaves"": 31, ""learning_rate"": 0.2}",0.65277,108.2,False,False
+lgbm_all69,123,2,"{""num_leaves"": 127, ""learning_rate"": 0.1}",0.912769,108.1,False,False
+lgbm_all69,123,3,"{""num_leaves"": 127, ""learning_rate"": 0.2}",0.642738,128.7,False,False

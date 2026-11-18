@@ -1,0 +1,9 @@
+{
+  "params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "val_macro_f1": 0.849783,
+  "fit_seconds": 119.3
+}
