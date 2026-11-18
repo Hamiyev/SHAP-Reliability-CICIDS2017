@@ -1,6 +1,6 @@
 # SHAP-guided feature selection for network intrusion detection on CICIDS2017
 
-Reproducibility package for the article *How Reliable Is SHAP-Guided Feature Selection for Network Intrusion Detection on CICIDS2017?* by Akrom Hamiyev (Samarkand State University named after Sharof Rashidov). [Article reference and DOI to be added after publication.]
+Reproducibility package for the article *How Reliable Is SHAP-Guided Feature Selection for Network Intrusion Detection on CICIDS2017?* by Akrom Hamiyev (Samarkand State University named after Sharof Rashidov).
 
 The repository holds the code, the frozen protocols, the result tables, the figures and the SHA256 manifests of all experiments. Raw datasets, trained models, predictions and SHAP arrays are not included (see "Not included").
 
