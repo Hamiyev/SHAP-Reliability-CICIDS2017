@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Reproducibility package: SHAP-guided feature selection for network intrusion detection on CICIDS2017"
+authors:
+  - family-names: Hamiyev
+    given-names: Akrom
+    orcid: "https://orcid.org/0000-0002-7989-9228"
+    affiliation: "Samarkand State University named after Sharof Rashidov"
+license: MIT
+version: 1.0.0
+date-released: "2026-11-18"
