@@ -1,0 +1,129 @@
+project:
+  name: "SHAP-guided CICIDS2017 - replication on the improved dataset"
+  protocol_version: "1.1"
+  parent_protocol: "1.0 (hash in configs/protocol_v1.0.sha256)"
+  purpose: "robustness check of v1.0 conclusions on a corrected CICIDS2017 version; no new hypotheses"
+  python: "3.11"
+
+data:
+  source: "CICIDS2017_improved.zip (5 CSV files); presumably the Liu et al. 2022 improved dataset, source to be confirmed"
+  parquet: "data/processed_corrected/cicids2017_improved_clean.parquet"
+  meta_parquet: "data/processed_corrected/cicids2017_improved_meta.parquet"
+  parquet_sha256: "865B612F694FACAD0A70D0967051182654D4E189E881F1A378A88B1BD64C1390"
+  n_rows: 1840242
+  n_classes: 16
+  feature_count_expected: 77
+  id_column: "row_id"
+  label_column: "Label"
+  label_id_column: "label_id"
+  feature_names_source: "results/data_audit_corrected/clean_data_summary.json"
+  label_map: "results/data_audit_corrected/label_map.json"
+  cleaning_decisions:
+    feature_set: "77 v1.0-equivalent features via an explicit rename map (src/13_corrected_clean.py); identifiers and the 5 new features are not used"
+    attempted_flows_relabelled_as_benign: 11979
+    full_row_duplicates_removed: 259732
+    nan_inf_rows_removed: 2
+    constant_columns_removed: 0
+    identical_duplicate_columns_removed: 0
+    outliers_removed: false
+
+splits:
+  seeds: [42, 123, 2024, 3407, 7777]
+  train_fraction: 0.70
+  validation_fraction: 0.15
+  test_fraction: 0.15
+  method: "two-step stratified on label_id"
+  manifest: "results/splits_corrected/split_manifest.json"
+
+evaluation:
+  primary_metric: "macro_f1"
+  primary_metric_note: "16 classes"
+  secondary_metrics: [accuracy, weighted_f1, balanced_accuracy, per_class_precision_recall_f1, confusion_matrix]
+  tuning_selection_metric: "validation macro_f1"
+  test_used_for_selection: false
+  ultra_rare_rule: "classes with fewer than 100 rows after cleaning"
+  ultra_rare_classes: ["Heartbleed", "Infiltration", "Web Attack - Brute Force", "Web Attack - SQL Injection", "Web Attack - XSS"]
+  sensitivity_analyses:
+    - "macro_f1_11_classes_excluding_ultra_rare"
+
+reproducibility:
+  model_random_state: "equal to the split seed"
+
+feature_selection:
+  method: "global_mean_absolute_shap"
+  rankings: [rf]
+  feature_counts: [5, 10, 20, 40]
+  fit_on_training_data_only: true
+  explainer: "shap.TreeExplainer, tree_path_dependent (no background data)"
+  sample: "class-balanced draw from the training part only: up to 300 rows per class, all rows for classes with fewer; seed = the split seed"
+  importance: "mean over sampled rows and over the 16 output classes of |SHAP value|"
+  additivity_check: "20 rows per ranking"
+
+models:
+  - {id: rf_all77,  type: random_forest, features: all77}
+  - {id: xgb_all77, type: xgboost,       features: all77}
+  - {id: lgbm_all77, type: lightgbm,     features: all77}
+  - {id: rf_top5,   type: random_forest, features: shap_top5}
+  - {id: rf_top10,  type: random_forest, features: shap_top10}
+  - {id: rf_top20,  type: random_forest, features: shap_top20}
+  - {id: rf_top40,  type: random_forest, features: shap_top40}
+
+model_fixed_params:
+  lightgbm:
+    reg_lambda: 1.0
+    min_child_weight: 1.0
+    reason: "same stabilising settings as protocol v1.0"
+
+tuning:
+  per_split: true
+  selection_metric: "validation macro_f1 (16 classes)"
+  tie_rule: "if the best two configs differ by less than 0.001, take the one with shorter training time"
+  n_estimators_fixed: 100
+  grids:
+    random_forest:
+      max_features: sqrt
+      max_depth: [null, 20]
+      min_samples_leaf: [1, 3]
+    xgboost:
+      max_depth: [6, 10]
+      learning_rate: [0.1, 0.3]
+    lightgbm:
+      num_leaves: [31, 127]
+      learning_rate: [0.1, 0.2]
+  class_weighting: "none (class weighting is not part of this replication)"
+  refit: "the selected model, already trained on the training part, predicts the test part once"
+
+validity_checks:
+  boosting_divergence_rule: "a boosting run is flagged invalid if its logloss on a fixed 200,000-row training subsample is non-finite or higher at the last iteration than at iteration 10; flagged runs stay in the log"
+
+statistics:
+  unit: "per-split macro_f1 difference (n = 5, splits are not independent)"
+  test: "paired t-test"
+  correction: "Holm over the 6 comparisons below"
+  report: [all_five_differences, mean_difference, ci_95_standard, ci_95_nadeau_bengio, raw_p_value, holm_adjusted_p_value]
+  nadeau_bengio: "variance factor 1/J + n_test/n_train"
+  non_inferiority:
+    metric: "macro_f1_11_classes_excluding_ultra_rare"
+    margin: 0.01
+    rule: "one-sided 95% lower confidence bound of the paired difference > -0.01 (standard and Nadeau-Bengio both reported)"
+  comparisons:
+    - [rf_all77, xgb_all77]
+    - [rf_all77, lgbm_all77]
+    - [rf_all77, rf_top5]
+    - [rf_all77, rf_top10]
+    - [rf_all77, rf_top20]
+    - [rf_all77, rf_top40]
+
+replication_criteria:
+  C1: "rf_top5 and rf_top10 are significantly worse than rf_all77 on 16-class macro_f1 (Holm p < 0.05, standard test)"
+  C2: "rf_top40 passes non-inferiority on the 11-class macro_f1 (standard one-sided bound)"
+  C3: "xgb_all77 and lgbm_all77 are not significantly different from rf_all77 on 16-class macro_f1 (Holm p >= 0.05)"
+  reporting: "each criterion is reported as met or not met, failures included"
+
+resources:
+  cpu_jobs: 4
+  save_predictions: true
+  save_model_metadata: true
+
+runs:
+  main: "results/run_005_replication"
