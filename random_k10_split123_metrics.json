@@ -1,0 +1,43 @@
+{
+  "method": "random",
+  "k": 10,
+  "split_seed": 123,
+  "features": [
+    "Destination Port",
+    "Total Fwd Packets",
+    "Fwd Packet Length Min",
+    "Bwd Packet Length Min",
+    "Bwd Packet Length Std",
+    "Fwd IAT Total",
+    "Fwd IAT Min",
+    "Fwd PSH Flags",
+    "Subflow Bwd Packets",
+    "Init_Win_bytes_forward"
+  ],
+  "macro_f1": 0.8914867154135595,
+  "macro_f1_12": 0.906025060933616,
+  "f1": [
+    0.9993491852085233,
+    0.8105263157894737,
+    0.9994270534923694,
+    0.9945072697899838,
+    0.9979368721439176,
+    0.9820742637644047,
+    0.9913366336633663,
+    0.9994385176866929,
+    1.0,
+    1.0,
+    0.9943635165800454,
+    0.9989637305699481,
+    0.7020785219399538,
+    0.5,
+    0.40229885057471265
+  ],
+  "train_seconds": 85.2,
+  "params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "note": "post hoc baseline, not part of the frozen protocol"
+}

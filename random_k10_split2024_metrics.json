@@ -1,0 +1,43 @@
+{
+  "method": "random",
+  "k": 10,
+  "split_seed": 2024,
+  "features": [
+    "Bwd Packet Length Min",
+    "Bwd Packet Length Mean",
+    "Fwd IAT Mean",
+    "Bwd IAT Std",
+    "Bwd IAT Min",
+    "Bwd Header Length",
+    "Packet Length Variance",
+    "SYN Flag Count",
+    "Active Mean",
+    "Idle Max"
+  ],
+  "macro_f1": 0.759095500468279,
+  "macro_f1_12": 0.8030360422520154,
+  "f1": [
+    0.9943694714363175,
+    0.5842217484008528,
+    0.9630805255626382,
+    0.9821717990275527,
+    0.9809733393055367,
+    0.9416292495189224,
+    0.9869969040247678,
+    0.996629213483146,
+    1.0,
+    0.75,
+    0.988580157113762,
+    0.9579288025889967,
+    0.20803782505910165,
+    0.0,
+    0.05181347150259067
+  ],
+  "train_seconds": 117.9,
+  "params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "note": "post hoc baseline, not part of the frozen protocol"
+}

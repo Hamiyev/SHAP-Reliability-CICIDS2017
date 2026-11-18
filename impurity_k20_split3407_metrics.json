@@ -1,0 +1,53 @@
+{
+  "method": "impurity",
+  "k": 20,
+  "split_seed": 3407,
+  "features": [
+    "Destination Port",
+    "Total Length of Fwd Packets",
+    "Total Length of Bwd Packets",
+    "Fwd Packet Length Max",
+    "Fwd Packet Length Mean",
+    "Bwd Packet Length Max",
+    "Bwd Packet Length Mean",
+    "Bwd Packet Length Std",
+    "Fwd IAT Std",
+    "Max Packet Length",
+    "Packet Length Mean",
+    "Packet Length Std",
+    "Packet Length Variance",
+    "PSH Flag Count",
+    "Average Packet Size",
+    "Avg Fwd Segment Size",
+    "Avg Bwd Segment Size",
+    "Subflow Fwd Bytes",
+    "Subflow Bwd Bytes",
+    "act_data_pkt_fwd"
+  ],
+  "macro_f1": 0.7656282090513659,
+  "macro_f1_12": 0.7903685946475406,
+  "f1": [
+    0.9968223993031214,
+    0.5170340681362725,
+    0.9993487717835838,
+    0.8592483419307295,
+    0.9883633124866885,
+    0.9879211697393515,
+    0.9894344313238036,
+    0.9983117613956106,
+    1.0,
+    1.0,
+    0.9935648994515539,
+    0.9647058823529412,
+    0.1598173515981735,
+    0.0,
+    0.029850746268656716
+  ],
+  "train_seconds": 187.3,
+  "params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "note": "post hoc baseline, not part of the frozen protocol"
+}
