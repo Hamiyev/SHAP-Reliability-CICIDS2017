@@ -1,0 +1,44 @@
+{
+  "variant": "no_port_no_engelen6",
+  "split_seed": 42,
+  "dropped": [
+    "Destination Port",
+    "Fwd Header Length",
+    "Total Fwd Packets",
+    "min_seg_size_forward",
+    "Init_Win_bytes_forward",
+    "SYN Flag Count",
+    "Bwd Packet Length Mean"
+  ],
+  "n_features": 62,
+  "params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "train_rows": 1764558,
+  "test_rows": 378120,
+  "macro_f1": 0.8369291011677021,
+  "macro_f1_12": 0.8887539690522203,
+  "macro_f1_excl": 0.8372013689775106,
+  "f1": [
+    0.9987607874328892,
+    0.6361655773420479,
+    0.9991409158357848,
+    0.9899448589036652,
+    0.9944144875437274,
+    0.9639751552795031,
+    0.991304347826087,
+    0.9971894322653176,
+    0.6666666666666666,
+    0.8888888888888888,
+    0.9943680514921006,
+    0.9574468085106383,
+    0.7289293849658315,
+    0.3333333333333333,
+    0.4134078212290503
+  ],
+  "train_seconds": 302.2,
+  "protocol_version": "1.0",
+  "note": "post hoc ablation, not part of the frozen protocol"
+}

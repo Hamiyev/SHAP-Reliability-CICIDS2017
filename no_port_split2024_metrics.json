@@ -1,0 +1,38 @@
+{
+  "variant": "no_port",
+  "split_seed": 2024,
+  "dropped": [
+    "Destination Port"
+  ],
+  "n_features": 68,
+  "params": {
+    "max_depth": null,
+    "min_samples_leaf": 1,
+    "max_features": "sqrt"
+  },
+  "train_rows": 1764558,
+  "test_rows": 378120,
+  "macro_f1": 0.821459861555279,
+  "macro_f1_12": 0.9018248269440986,
+  "macro_f1_excl": 0.8217502942038828,
+  "f1": [
+    0.9991518694674599,
+    0.7928571428571428,
+    0.9995311767463666,
+    0.9945037180730683,
+    0.9968146103206625,
+    0.9704588309239472,
+    0.9975308641975309,
+    0.9977502812148481,
+    1.0,
+    0.5,
+    0.9935681917848268,
+    0.9916666666666667,
+    0.7527352297592997,
+    0.0,
+    0.33532934131736525
+  ],
+  "train_seconds": 328.7,
+  "protocol_version": "1.0",
+  "note": "post hoc ablation, not part of the frozen protocol"
+}
